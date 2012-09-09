@@ -1,0 +1,12 @@
+Actor: Athlete (hence forth the client)
+
+Scenario: record a new weekly plan.
+
+
+1. The client opens the application and indicates the start date end end date for the event
+2. The client types the sstart time and end time of the daily occurrence.  
+3. the system ask for a confirmation and saves the data.
+4 The client goes on a binge to end all binges
+
+
+  
