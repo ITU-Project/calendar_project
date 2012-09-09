@@ -1,1 +1,15 @@
-A vision of the project.
+					A vision of the Calendar project.
+
+We want to create a calendar application targeted at professional and amateur -periodically employed people:
+That is, people whose work schedule falls in periodically (musicians, Athletes, ).
+
+The calendar should (apart from the obvious) cater for the specific needs of the above:
+
+	Athletes have long coherent training/ tournament periods. The calendar should be able to draw these periods, that is, emphasize/depict these periods.
+	For instance by drawing days/weeks the same color.
+	
+		Each day Athletes have a packed/tight programme. 
+		The calendar should provide a means of ()  
+		The calendar should provide a graphical representation of the programme during the day.
+				
+		
