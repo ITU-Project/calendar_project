@@ -18,6 +18,8 @@ The calendar should be able to indicate the conherentness of such a period, that
 		The calendar should provide a means of - make periods within periods
 		The calendar should provide a means of - create a repeating daily/weekly schedule within a period
 		The calendar should provide a means of - showing different sub-periods of a period
+		The calendar should provide a means of - Integrate with other calendars (google, android, Iphone)
+
 
 
 				
