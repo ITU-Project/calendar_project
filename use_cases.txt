@@ -1,12 +1,20 @@
-Actor: Athlete (hence forth the client)
+Prime Actor: Athlete (hence forth the client).
+Secondary Actor: The System.
 
-Scenario: record a new weekly plan.
+Scenario: The client creates a new training period with a daily event. 
+
+Pre-condition: The application is running  and the actor is logged in.
+
+1. The client selects "new period" and then selects the type of period (Training/tour/Tournament/Vacation)
+2. The client indicates the start date end end date for the period.
+3. The system confirms and presents further options (sub-period/daily event/ appointment)
+4. The client selects "daily event". 
+5. The system suggests event duration as the whole period. 
+6. The client selects start and end date for the daily event.
+7. The system confirms.  
+8. After such a humungus succes the client goes on a binge to end all binges.
 
 
-1. The client opens the application and indicates the start date end end date for the event
-2. The client types the sstart time and end time of the daily occurrence.  
-3. the system ask for a confirmation and saves the data.
-4 The client goes on a binge to end all binges
 
 
   
