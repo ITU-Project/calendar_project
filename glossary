@@ -1,1 +1,15 @@
 A glossary for the project.
+
+A customer:
+  The client/ clients
+
+A coherent period of time in the calendar (a tour):
+  A period
+
+A daily occurence:
+  An event
+
+
+
+------
+in our calendar, the client creates a period with daily events
