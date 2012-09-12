@@ -32,5 +32,9 @@ namespace GameOfLiveCommandLine
         {
             return state;
         }
+        
+        public void setState(){
+            
+        }
     }
 }
