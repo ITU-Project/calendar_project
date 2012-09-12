@@ -1,0 +1,14 @@
+FURPS+ requirementsófunctionality, usability, reliability, performance, and supportability 
+- reports 
+- hardware and software constraints (operating and networking systems, ...) 
+- development constraints (for example, process or development tools) 
+- other design and implementation constraints 
+- internationalization concerns(units, languages, ...) 
+- documentation (user, installation, administration) and help 
+- licensing and other legal concerns 
+- pacakaging 
+- standards (technical, safety, quality) 
+- physical environment concerns (for example, heat or vibration) 
+- operational concerns (for example, how do errors get handled, or how often to do backups?) 
+- domain or business rules 
+- information in domains of interest (for example, what is the entire cycle of credit payment handling?)
