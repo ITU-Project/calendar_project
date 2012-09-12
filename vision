@@ -1,15 +1,24 @@
 					A vision of the Calendar project.
 
-We want to create a calendar application targeted at professional and amateur -periodically employed people:
-That is, people whose work schedule falls in periodically (musicians, Athletes, ).
+We want to create a calendar application targeted at professional (and amateur) -periodically employed people:
+That is, people whose work schedules are periodically booked (Athletes, musicians, projectmanagers, ... ) 
+hence forth named the client/clients.
 
-The calendar should (apart from the obvious) cater for the specific needs of the above:
+The calendar should (apart from the obvious calendar functionality) cater for the specific needs of the client, namely: 
+There are periods (for instance a whole week or two whole weeks) where a complete schedule is layed out for each day. 
+These periods are seen as one coherent "clump" of time.
 
-	Athletes have long coherent training/ tournament periods. The calendar should be able to draw these periods, that is, emphasize/depict these periods.
-	For instance by drawing days/weeks the same color.
-	
-		Each day Athletes have a packed/tight programme. 
-		The calendar should provide a means of ()  
-		The calendar should provide a graphical representation of the programme during the day.
+	(Athletes have long training/tournament periods. Musicians have tours.)
+
+The calendar should be able to indicate the conherentness of such a period, that is, visually depict that it is a whole.
+	( For instance by use of color)
+
+	Each day during a period the client have a packed/tight programme: 
+		The calendar should provide a means of - viewing a whole period 
+		The calendar should provide a means of - make periods within periods
+		The calendar should provide a means of - create a repeating daily/weekly schedule within a period
+		The calendar should provide a means of - showing different sub-periods of a period
+
+
 				
 		
